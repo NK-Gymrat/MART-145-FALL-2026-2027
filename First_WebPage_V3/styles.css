@@ -1,0 +1,51 @@
+body {
+	background: linear-gradient(to bottom, #1a1a1a,#000000);
+	color: white;
+}
+
+h1 {
+	font-family: Inter, sans-serif;
+	font-size:  16px;
+	color: black;
+	text-align: center;
+	border:  2px solid gray;
+	background-color:  #D3D3D3;
+	padding:  10px;
+	border-radius:  10px;
+}
+
+h2 {
+	font-family: Inter, sans-serif;
+	font-size:  20px;
+	color: lightgray;
+	text-align: left;
+}
+
+p {
+	font-family: Consolas, monospace;
+	font-size: 15px;
+}
+
+img {
+	border:  1px solid white;
+	border-radius: 16px;
+	background: linear-gradient(to bottom, #1a1a1a,#000000);
+	color: white;
+	padding: 12px;
+}
+
+a {
+	display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-family: Inter, sans-serif;
+    font-weight: bold;
+    transition: 0.3s;
+}
+a:hover {
+	background-color: #555;
+	color; #ddd;
+}
